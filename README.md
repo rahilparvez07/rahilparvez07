@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahil Parvez
 
-### 🛡️ Cybersecurity Student | SOC & Security Monitoring | Python
+### 🛡️ Cybersecurity Student | SOC & Security Monitoring
 
 I'm a cybersecurity student from India interested in **Security Operations, Threat Detection, Incident Response, and Network Security**.
 
