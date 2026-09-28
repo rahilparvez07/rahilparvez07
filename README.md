@@ -1,15 +1,124 @@
-<h1 align="center">Hi 👋, I'm Rahil Parvez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Rahil Parvez
 
-- 🔭 I’m currently working on **Security monitoring & detection**
+### 🛡️ Cybersecurity Student | SOC & Security Monitoring | Python
 
-- 🌱 I’m currently learning **SOC,C,JAVA**
+I'm a cybersecurity student from India interested in **Security Operations, Threat Detection, Incident Response, and Network Security**.
 
-- 📫 How to reach me **rahilparvez009@gmail.com**
+Currently, I'm learning how to detect and investigate security incidents through hands-on labs and practical projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+* 🔭 Working on: Security Monitoring & Threat Detection
+* 🌱 Learning: SOC Operations, C, Java, Linux
+* 🛡️ Interested in: Blue Team, SIEM, Incident Response
+* 🧪 Practicing: Wazuh, Log Analysis, Network Security
+* 📫 Email: [rahilparvez009@gmail.com](mailto:rahilparvez009@gmail.com)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java" alt="Python, C and Java"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🛡️ Cybersecurity & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
+
+### 🐧 Operating Systems & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,nginx" alt="Linux, Ubuntu, Docker, AWS and Nginx"/>
+</p>
+
+### 🌐 Web Development & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql" alt="HTML, CSS, JavaScript, React, PHP and MySQL"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📡 Network Packet Analyzer
+
+A Python-based network packet analyzer using Scapy to capture and inspect network traffic.
+
+* Capture network packets
+* Identify source and destination IP addresses
+* Detect TCP, UDP, and ICMP protocols
+* Display packet sizes
+
+🔗 [View Project](https://github.com/rahilparvez07/Network-Packet-Analyzer)
+
+### 🛡️ Wazuh Security Monitoring Lab
+
+**Status: In progress**
+
+A virtual SOC lab designed to monitor security events and investigate suspicious activity.
+
+* Kali Linux for generating authorized lab activity
+* Ubuntu Server for Wazuh
+* Ubuntu Server as a monitored agent
+* Security event monitoring and alert investigation
+
+🔗 [View my repositories](https://github.com/rahilparvez07?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rahilparvez07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahil's GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilparvez07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahilparvez07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahilparvez07&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahilparvez07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:rahilparvez009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rahilparvez07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 Learning, building, and improving every day.
+</p>
