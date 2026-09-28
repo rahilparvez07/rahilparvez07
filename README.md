@@ -43,17 +43,6 @@ Currently, I'm learning how to detect and investigate security incidents through
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql" alt="HTML, CSS, JavaScript, React, PHP and MySQL"/>
 </p>
 
----
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rahilparvez07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahil's GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilparvez07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p>
----
-
 ## 🌐 Connect With Me
 
 <p>
