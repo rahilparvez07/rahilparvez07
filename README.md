@@ -45,33 +45,6 @@ Currently, I'm learning how to detect and investigate security incidents through
 
 ---
 
-## 🚀 Featured Projects
-
-### 📡 Network Packet Analyzer
-
-A Python-based network packet analyzer using Scapy to capture and inspect network traffic.
-
-* Capture network packets
-* Identify source and destination IP addresses
-* Detect TCP, UDP, and ICMP protocols
-* Display packet sizes
-
-🔗 [View Project](https://github.com/rahilparvez07/Network-Packet-Analyzer)
-
-### 🛡️ Wazuh Security Monitoring Lab
-
-**Status: In progress**
-
-A virtual SOC lab designed to monitor security events and investigate suspicious activity.
-
-* Kali Linux for generating authorized lab activity
-* Ubuntu Server for Wazuh
-* Ubuntu Server as a monitored agent
-* Security event monitoring and alert investigation
-
-🔗 [View my repositories](https://github.com/rahilparvez07?tab=repositories)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -79,31 +52,6 @@ A virtual SOC lab designed to monitor security events and investigate suspicious
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rahilparvez07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rahil's GitHub statistics"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilparvez07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahilparvez07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahilparvez07&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahilparvez07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
